@@ -1,19 +1,20 @@
-### Hi there 👋
+# 👋 Hi, I'm Faham!
+<br>
 
-<!--
-**faham1997/faham1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="faham1997's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faham1997&show_icons=true&hide_border=true" />
 
-Here are some ideas to get you started:
+I am currently:
+- 🔎 Studying software engineering
+- 🔧 Building software systems and plugins
+- 🐛 Exploring linux configurations
+- 📖 Learning DSA and some trendy language 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
-<img align="left" alt="faham1997's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faham1997&show_icons=true&hide_border=true" />
+<div align="center">
+  <a href="https://faham.dev">
+    faham.dev
+  </a>
+</div>
+
 
