@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Faham!
 <br>
 
-<img align="right" alt="faham1997's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faham1997&show_icons=true&hide_border=true" />
+<img align="right" alt="faham1997's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahamx&show_icons=true&hide_border=true" />
 
 I am currently:
 - 🔎 Studying software engineering
